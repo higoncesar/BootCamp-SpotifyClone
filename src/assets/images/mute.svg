@@ -1,0 +1,31 @@
+<svg width="14.000000000000002" height="12" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+ <title>Volume</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Page-1">
+   <g stroke="#B3B3B3" id="Spotify">
+    <g id="Client">
+     <g id="Lower-Bar">
+      <g id="Right-Controls">
+       <g id="Volume">
+        <g id="svg_1">
+         <polygon points="6.776498079299927,10.930411100387573 3.7764980792999268,7.9304115772247314 0.7764978408813477,7.9304115772247314 0.7764978408813477,3.9304115772247314 3.7764980792999268,3.9304115772247314 6.776498079299927,0.9304117560386658 " id="Stroke-1"/>
+         <path stroke-linecap="round" id="Stroke-3" d="m11.379998,11.430403c3.038,-3.038 3.038,-7.962 0,-11"/>
+         <path stroke-linecap="round" id="Stroke-5" d="m9.897598,8.930403c1.657,-1.657 1.657,-4.343 0,-6"/>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <line stroke="#b3b3b3" transform="rotate(-175.53567504882812 6.953918933868407,6.060389041900635) " stroke-linecap="round" stroke-linejoin="undefined" id="svg_6" y2="10.85755" x2="13.635613" y1="1.263228" x1="0.272226" fill="none"/>
+ </g>
+</svg>

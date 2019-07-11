@@ -14,6 +14,7 @@ export const Container = styled.div`
 `;
 
 export const Current = styled.div`
+  min-width: 200px;
   display: flex;
   align-items: center;
 
@@ -94,7 +95,11 @@ export const Volume = styled.div`
   width: 100px;
   margin-right: 20px;
 
-  img {
-    margin-right: 5px;
+  button {
+    border: 0;
+    background: transparent;
+    img {
+      margin-right: 5px;
+    }
   }
 `;
