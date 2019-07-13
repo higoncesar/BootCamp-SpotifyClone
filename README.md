@@ -8,7 +8,7 @@ ReactJS, Styled Components, Redux, Redux Saga, React Routes Dom, React Sound, Re
 
 ## LAYOUT E DEMONSTRAÇÃO
 
-![Demo](/assets/spotifyclone.mp4)
+Demo: https://bootcamp-spotifyclone.herokuapp.com/
 
 ## INSTALAÇÃO
 
