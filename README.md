@@ -19,13 +19,13 @@ Demo: https://bootcamp-spotifyclone.herokuapp.com/
 Para testar este projeto é so clonar este repositório com o comando:
 
 ```
-\$ git clone https://github.com/higoncesar/BootCamp-SpotifyClone
+\$ git clone https://github.com/higoncesar/SpotifyClone-Web
 ```
 
 Entrar dentro da Pasta do Projeto:
 
 ```
-\$ cd BootCamp-SpotifyClone
+\$ cd SpotifyClone-Web
 ```
 
 Instalar as dependencias com o comando:
